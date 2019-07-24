@@ -1,4 +1,4 @@
-# GTEX_liver_WGCNA
+# GTEX_liver_WGCNA_Human
 
 
 three files in Human GTEX liver WGCNA
